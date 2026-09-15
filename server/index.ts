@@ -17,7 +17,6 @@ const server = new Server({
     name: "email-mcp-server",
     version: "1.0.0",
     description: "An advanced MCP server for comprehensive email operations including basic and advanced email management.",
-    author: "Sharique Chaudhary",
     license: "MIT"
 }, {
     capabilities: {
