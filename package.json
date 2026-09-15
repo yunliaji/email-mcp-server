@@ -72,8 +72,7 @@
     "cli": "node dist/cli/index.js",
     "clean": "rm -rf dist",
     "setup": "node setup-cli.js",
-    "install-cli": "node install.js",
-    "postinstall": "npm run build && node postinstall.js",
+    "install-cli": "node install.js"
     "prepack": "npm run build"
   },
   "dependencies": {
